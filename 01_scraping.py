@@ -63,3 +63,11 @@ while "#" not in url:
     print("href " + str(next_href))
     url = base_url + str(next_href)
     print("new url " + url)
+
+"""
+https://youtu.be/vxk6YPRVg_o
+web scraping tools: puppetter, playwrite, selium
+scraping browswer
+bright data company that has: web unlocker
+
+"""
